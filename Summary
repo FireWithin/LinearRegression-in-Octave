@@ -1,0 +1,7 @@
+Results:
+
+Model Used:
+      Height = theta_0 + theta_1*age
+
+theta_0 = 0.750150
+theta_1 = 0.063883
